@@ -9,4 +9,4 @@ Right now I'm rebuilding that backend properly with FastAPI and PostgreSQL, and 
 Things I've used in real projects: Python, Flask, JavaScript, React, Git, GitHub Actions.
 Learning at the moment: FastAPI, PostgreSQL, Docker, AWS.
 
-I'm looking for junior Python, backend or AI engineering roles in the UK. If you'd like to talk, message me on LinkedIn.
+I'm looking for junior Python, backend or AI engineering roles in the UK. If you'd like to talk, message me on [LinkedIn](https://www.linkedin.com/in/sagarthapa2059/).
